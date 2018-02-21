@@ -14,7 +14,7 @@ collection of the deep learning papers on recommender systems
 [1]. He, Xiangnan, et al. "Neural collaborative filtering." Proceedings of the 26th International Conference on World Wide Web. International World Wide Web Conferences Steering Committee, 2017. <a href="https://www.comp.nus.edu.sg/~xiangnan/papers/ncf.pdf">[PDF]</a></br>
 [2]. Guo, Huifeng, et al. "Deepfm: A factorization-machine based neural network for CTR prediction." arXiv preprint arXiv:1703.04247 (2017). <a href="https://pdfs.semanticscholar.org/1513/13065d71b49dbf07289c002c887d7b5a0a6b.pdf">[PDF]</a></br>
 [3]. Cheng, Heng-Tze, et al. "Wide & deep learning for recommender systems." Proceedings of the 1st Workshop on Deep Learning for Recommender Systems. ACM, 2016.  <a href="https://dl.acm.org/citation.cfm?id=2988454">[PDF]</a></br>
-[4]. http://www.comp.nus.edu.sg/~xiangnan/papers/sigir17-SilkRoad.pdf <a href="http://cseweb.ucsd.edu/classes/fa17/cse291-b/reading/p191-covington.pdf">[PDF]</a></br>
+[4]. Covington, Paul, Jay Adams, and Emre Sargin. "Deep neural networks for youtube recommendations." Proceedings of the 10th ACM Conference on Recommender Systems. ACM, 2016. <a href="http://cseweb.ucsd.edu/classes/fa17/cse291-b/reading/p191-covington.pdf">[PDF]</a></br>
 [5]. Wang, Xiang, et al. "Item silk road: Recommending items from information domains to social users." Proceedings of the 40th International ACM SIGIR conference on Research and Development in Information Retrieval. ACM, 2017.<a href="http://www.comp.nus.edu.sg/~xiangnan/papers/sigir17-SilkRoad.pdf">[PDF]</a></br>
 </p>
 
