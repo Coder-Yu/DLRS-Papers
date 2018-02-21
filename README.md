@@ -1,7 +1,7 @@
 # DLRS-Papers
 collection of the deep learning papers on recommender systems
 <h2> Overview </h2>
-<img src='http://i1.bvimg.com/631692/5d6242c7bfa9e073.png' weight='600' height='500'>
+<center><img src='http://i1.bvimg.com/631692/5d6242c7bfa9e073.png' weight='600' height='500'></center>
 <h2> Survey </h2>
 <p>
 [1]. Zhang, Shuai, Lina Yao, and Aixin Sun. "Deep learning based recommender system: A survey and new perspectives." arXiv preprint arXiv:1707.07435 (2017). <a href="https://arxiv.org/abs/1707.07435">[PDF]</a></br>
