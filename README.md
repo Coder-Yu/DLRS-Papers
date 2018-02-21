@@ -2,7 +2,7 @@
 collection of the deep learning papers on recommender systems
 <h2> Overview </h2>
 <div style="text-align:center">  
-<img src='http://i1.bvimg.com/631692/5d6242c7bfa9e073.png' weight='600' height='500'>
+<img src='http://i1.bvimg.com/631692/5d6242c7bfa9e073.png' weight='800' height='680'>
 </div>
 <h2> Survey </h2>
 <p>
