@@ -25,3 +25,9 @@ collection of the deep learning papers on recommender systems
 [2]. Wu, Yao, et al. "Collaborative denoising auto-encoders for top-n recommender systems." Proceedings of the Ninth ACM International Conference on Web Search and Data Mining. ACM, 2016. <a href="http://yaowu.co/docs/wsdm16cdae.pdf">[PDF]</a></br>
 [3]. Li, Sheng, Jaya Kawale, and Yun Fu. "Deep collaborative filtering via marginalized denoising auto-encoder." Proceedings of the 24th ACM International on Conference on Information and Knowledge Management. ACM, 2015. <a href="https://dl.acm.org/citation.cfm?id=2806527">[PDF]</a></br>
 [4]. Strub, Florian, Romaric Gaudel, and Jérémie Mary. "Hybrid recommender system based on autoencoders." Proceedings of the 1st Workshop on Deep Learning for Recommender Systems. ACM, 2016.  <a href="https://dl.acm.org/citation.cfm?id=2988456">[PDF]</a></br>
+</p>
+
+<h2>Convolutional Neural Network Based Recommender Systems</h2>
+<p>
+[1]. Gong, Yuyun, and Qi Zhang. "Hashtag Recommendation Using Attention-Based Convolutional Neural Network." IJCAI. 2016.  <a href="https://www.ijcai.org/Proceedings/16/Papers/395.pdf">[PDF]</a></br>
+[2]. Kim, Donghyun, et al. "Convolutional matrix factorization for document context-aware recommendation." Proceedings of the 10th ACM Conference on Recommender Systems. ACM, 2016.   <a href="https://dl.acm.org/citation.cfm?id=2959165">[PDF]</a></br>
