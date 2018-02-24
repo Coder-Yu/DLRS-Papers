@@ -31,3 +31,5 @@ collection of the deep learning papers on recommender systems
 <p>
 [1]. Gong, Yuyun, and Qi Zhang. "Hashtag Recommendation Using Attention-Based Convolutional Neural Network." IJCAI. 2016.  <a href="https://www.ijcai.org/Proceedings/16/Papers/395.pdf">[PDF]</a></br>
 [2]. Kim, Donghyun, et al. "Convolutional matrix factorization for document context-aware recommendation." Proceedings of the 10th ACM Conference on Recommender Systems. ACM, 2016.   <a href="https://dl.acm.org/citation.cfm?id=2959165">[PDF]</a></br>
+[3]. Nguyen, Hanh TH, et al. "Personalized Deep Learning for Tag Recommendation." Pacific-Asia Conference on Knowledge Discovery and Data Mining. Springer, Cham, 2017.  <a href="https://link.springer.com/chapter/10.1007/978-3-319-57454-7_15">[PDF]</a></br>
+[4]. Zheng, Lei, Vahid Noroozi, and Philip S. Yu. "Joint deep modeling of users and items using reviews for recommendation." Proceedings of the Tenth ACM International Conference on Web Search and Data Mining. ACM, 2017.  <a href="https://dl.acm.org/citation.cfm?id=3018665">[PDF]</a></br>
