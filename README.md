@@ -35,7 +35,7 @@ collection of the deep learning papers on recommender systems
 [4]. Zheng, Lei, Vahid Noroozi, and Philip S. Yu. "Joint deep modeling of users and items using reviews for recommendation." Proceedings of the Tenth ACM International Conference on Web Search and Data Mining. ACM, 2017.  <a href="https://dl.acm.org/citation.cfm?id=3018665">[PDF]</a></br>
 </p>
 
-<h2>Recurrent 
+<h2>Recurrent Neural Network Based Recommender Systems</h2>
 <p>
 [1]. Hidasi, Balázs, et al. "Session-based recommendations with recurrent neural networks." arXiv preprint arXiv:1511.06939 (2015).   <a href="https://arxiv.org/abs/1511.06939">[PDF]</a></br>
 [2]. Tan, Yong Kiam, Xinxing Xu, and Yong Liu. "Improved recurrent neural networks for session-based recommendations." Proceedings of the 1st Workshop on Deep Learning for Recommender Systems. ACM, 2016.  <a href="https://dl.acm.org/citation.cfm?id=2988452">[PDF]</a></br>
