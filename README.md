@@ -39,3 +39,4 @@ collection of the deep learning papers on recommender systems
 <p>
 [1]. Hidasi, Balázs, et al. "Session-based recommendations with recurrent neural networks." arXiv preprint arXiv:1511.06939 (2015).   <a href="https://arxiv.org/abs/1511.06939">[PDF]</a></br>
 [2]. Tan, Yong Kiam, Xinxing Xu, and Yong Liu. "Improved recurrent neural networks for session-based recommendations." Proceedings of the 1st Workshop on Deep Learning for Recommender Systems. ACM, 2016.  <a href="https://dl.acm.org/citation.cfm?id=2988452">[PDF]</a></br>
+[3] Bansal, Trapit, David Belanger, and Andrew McCallum. "Ask the gru: Multi-task learning for deep text recommendations." Proceedings of the 10th ACM Conference on Recommender Systems. ACM, 2016.  <a href="https://dl.acm.org/citation.cfm?id=2959180">[PDF]</a></br>
