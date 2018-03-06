@@ -41,3 +41,8 @@ collection of the deep learning papers on recommender systems
 [2]. Tan, Yong Kiam, Xinxing Xu, and Yong Liu. "Improved recurrent neural networks for session-based recommendations." Proceedings of the 1st Workshop on Deep Learning for Recommender Systems. ACM, 2016.  <a href="https://dl.acm.org/citation.cfm?id=2988452">[PDF]</a></br>
 [3] Bansal, Trapit, David Belanger, and Andrew McCallum. "Ask the gru: Multi-task learning for deep text recommendations." Proceedings of the 10th ACM Conference on Recommender Systems. ACM, 2016.  <a href="https://dl.acm.org/citation.cfm?id=2959180">[PDF]</a></br>
 [4] Dai, Hanjun, et al. "Recurrent coevolutionary latent feature processes for continuous-time recommendation." Proceedings of the 1st Workshop on Deep Learning for Recommender Systems. ACM, 2016.  <a href="https://dl.acm.org/citation.cfm?id=2988451">[PDF]</a></br>
+</p>
+
+<h2>Generative Adversarial Network basedRecommenderSystem</h2>
+<p>
+[1]. Wang, Jun, et al. "Irgan: A minimax game for unifying generative and discriminative information retrieval models." Proceedings of the 40th International ACM SIGIR conference on Research and Development in Information Retrieval. ACM, 2017.  <a href="https://dl.acm.org/citation.cfm?id=3080786">[PDF]</a></br>
