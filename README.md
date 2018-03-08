@@ -46,3 +46,7 @@ collection of the deep learning papers on recommender systems
 <h2>Generative Adversarial Network basedRecommenderSystem</h2>
 <p>
 [1]. Wang, Jun, et al. "Irgan: A minimax game for unifying generative and discriminative information retrieval models." Proceedings of the 40th International ACM SIGIR conference on Research and Development in Information Retrieval. ACM, 2017.  <a href="https://dl.acm.org/citation.cfm?id=3080786">[PDF]</a></br>
+
+
+<h2>Deep Semantic Similarity Model based Recommender System</h2>
+[1]. Xu, Zhenghua, et al. "Tag-aware personalized recommendation using a deep-semantic similarity model with negative sampling." Proceedings of the 25th ACM International on Conference on Information and Knowledge Management. ACM, 2016.  <a href="https://dl.acm.org/citation.cfm?id=2983874">[PDF]</a></br>
